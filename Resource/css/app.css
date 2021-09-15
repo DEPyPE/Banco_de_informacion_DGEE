@@ -51,6 +51,10 @@ body{
     right: 18px !important;
 }
 
+.collection-color-item{
+    color: black !important;
+}
+
 /* ESTILOS PARA EL MODAL */
 #ShowPDFDocuments{
     top: 30px !important;
